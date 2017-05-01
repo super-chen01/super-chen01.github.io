@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[这是一篇测试文章]]></title>
+    <url>%2F2017%2F05%2F01%2Fnewpost%2F</url>
+    <content type="text"><![CDATA[blah blah blah H1H2H3 世界上一成不变的东西，只有“任何事物都是在不断变化的”这条真理。 每个人都必须找到生活的意义。他需要做一项工作，来促使自己真正找到时间的感觉。一个人所拥有的空闲时间越少，那么他就会更加理解时间的价值，也就能够更充分地利用时间。 船放在港口最安全，但那不是造船的目的。 hello world 1874.This link has no title attribute. Please don’t use any &lt;blink&gt; tags.]]></content>
+      <categories>
+        <category>教学篇</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>测试</tag>
+      </tags>
+  </entry>
+</search>
