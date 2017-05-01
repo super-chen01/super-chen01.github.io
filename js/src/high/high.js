@@ -114,12 +114,12 @@ function shake() {
     var t = 30;
     var n = 350;
     var r = 350;
-    var i = "mp3/harlem-shake.mp3";	//可下载下来放到七牛，加快国内访问速度
+    var i = "//s3.amazonaws.com/moovweb-marketing/playground/harlem-shake.mp3";	//可下载下来放到七牛，加快国内访问速度
     var s = "mw-harlem_shake_me";
     var o = "im_first";
     var u = ["im_drunk", "im_baked", "im_trippin", "im_blown"];
     var a = "mw-strobe_light";
-    var f = "css/harlem-shake-style.css";//可下载下来放到七牛，加快国内访问速度
+    var f = "//s3.amazonaws.com/moovweb-marketing/playground/harlem-shake-style.css";//可下载下来放到七牛，加快国内访问速度
     var l = "mw_added_css";
     var b = g();
     var w = y();
